@@ -27,4 +27,4 @@ Este sistema integrado surge para dar solución a la desorganización operativa 
 * Arce Thiago
 * Cabrera Ulises
 * Denuble Franco
-* Gonzales Manuel
+* Gonzalez Manuel
