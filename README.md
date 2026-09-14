@@ -36,6 +36,7 @@ Toda la documentación técnica del proyecto se encuentra organizada dentro de l
 * 🎨 **[Maquetado Funcional y Usabilidad](./docs/maquetado-y-usabilidad.xlsx):** Especificación de pantallas y aplicación de las 10 Heurísticas de Jakob Nielsen.
 * 📋 **[Especificación de Requerimientos](./docs/requerimientos.md):** Requerimientos Funcionales (RF01-RF12) y No Funcionales (RNF01-RNF04).
 * 🟡 **[Historias de Usuario (Backlog)](./docs/historias-de-usuario.md):** US01 a US06 con sus respectivos Criterios de Aceptación (3 C de Agile).
+* 🗓️ **[Bitácora de Trabajo](./docs/bitacora.md):** Registro de avances y decisiones semanales del equipo (Semanas 1 a 7).
 * 🌳 **Diagnósticos Visuales:**
   * [Árbol de Problemas](./docs/arbol-de-problemas.png)
   * [Árbol de Objetivos](./docs/arbol-de-objetivos.png)
