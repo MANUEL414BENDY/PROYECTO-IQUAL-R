@@ -1,8 +1,8 @@
 # Bitácora de Trabajo del Equipo
-**Proyecto:**PROYECTO IQUAL (Sistema de Gestión Escolar-SGE)  
-**Materia:**Proyecto Informático I - 4° Año Computación  
-**Establecimiento:**Escuela Técnica N°3 D.E.9 Reg 8ª "María Sánchez de Thompson"  
-**Equipo:**Arce Thiago,Cabrera Ulises,Denuble Franco,MANUEL GONZALEZ  
+**Proyecto:** PROYECTO IQUAL® (Sistema de Gestión Escolar-SGE)  
+**Materia: **Proyecto Informático I-4° Año Computación  
+**Establecimiento: **Escuela Técnica N°3 D.E.9 Reg 8ª "María Sánchez de Thompson"  
+**Equipo: **Arce Thiago,Cabrera Ulises,Denuble Franco,MANUEL GONZALEZ  
 
 ---
 
@@ -58,10 +58,10 @@
 
 ---
 
-## Semana 7 - Migración a Repositorio y Cierre de la Carpeta de Proyecto V1
+## Semana 7-Migración a Repositorio y Cierre de la Carpeta de Proyecto V1
 * **Actividades:**
   * Rediseño y exportación de los Árboles de Problemas y Objetivos a **Draw.io** (`.png`).
   * Migración de los Requerimientos e Historias de Usuario a archivos formateados en Markdown (`docs/requerimientos.md` y `docs/historias-de-usuario.md`).
   * Conversión de la MML y la tabla de Maquetado/Usabilidad a hojas de cálculo formateadas en Excel (`docs/marco-logico.xlsx` y `docs/maquetado-y-usabilidad.xlsx`).
   * Estructuración final de la carpeta `/docs` en GitHub y actualización del `README.md` principal con enlaces navegables a toda la documentación.
-* **Entregables / Artefactos:** Carpeta `/docs` y `README.md` actualizados en GitHub, completando los requisitos de la Carpeta V1.
+* **Entregables / Artefactos:** Carpeta `/docs` y `README.md` actualizados en GitHub, completando los requisitos de la Carpeta  PROYECTO V1.
