@@ -1,5 +1,5 @@
 # Especificación de Requerimientos
-**Sistema:** PROYECTO IQUAL (Sistema de Gestión Escolar-SGE)  
+**Sistema:** PROYECTO IQUAL® (Sistema de Gestión Escolar-SGE)  
 **Materia:** Proyecto Informático I-4° Año Computación  
 **Marco:** Buenos Aires Aprende (CABA)  
 
