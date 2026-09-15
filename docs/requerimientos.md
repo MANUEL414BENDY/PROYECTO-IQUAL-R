@@ -1,11 +1,11 @@
 # Especificación de Requerimientos
-**Sistema:** PROYECTO IQUAL (Sistema de Gestión Escolar - SGE)  
-**Materia:** Proyecto Informático I - 4° Año Computación  
+**Sistema:** PROYECTO IQUAL (Sistema de Gestión Escolar-SGE)  
+**Materia:** Proyecto Informático I-4° Año Computación  
 **Marco:** Buenos Aires Aprende (CABA)  
 
 ---
 
-## 1. Requerimientos Funcionales (RF) 🔵
+## 1.Requerimientos Funcionales (RF) 🔵
 
 *Procesos, tareas y funciones operativas obligatorias del software.*
 
@@ -26,9 +26,9 @@
 
 ---
 
-## 2. Requerimientos No Funcionales (RNF) 🟢
+## 2.Requerimientos No Funcionales (RNF) 🟢
 
-*Atributos de calidad, restricciones técnicas e infraestructura del sistema.*
+*Atributos de calidad,restricciones técnicas e infraestructura del sistema.*
 
 * **RNF01 (Usabilidad):** La interfaz debe ser intuitiva, amigable y adaptable, siguiendo los principios de consistencia y diseño minimalista para usuarios con distinto nivel técnico.
 * **RNF02 (Seguridad):** Las contraseñas de los usuarios deben guardarse cifradas en la base de datos local y los formularios deben contar con validaciones para prevenir inyecciones de código (SQL Injection).
