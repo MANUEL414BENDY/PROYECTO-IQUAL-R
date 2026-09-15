@@ -1,8 +1,8 @@
 # Bitácora de Trabajo del Equipo
-**Proyecto:** PROYECTO IQUAL (Sistema de Gestión Escolar - SGE)  
-**Materia:** Proyecto Informático I - 4° Año Computación  
-**Establecimiento:** Escuela Técnica N°3 D.E.9 Reg 8ª "María Sánchez de Thompson"  
-**Equipo:** Arce Thiago, Cabrera Ulises, Denuble Franco, Gonzalez Manuel  
+**Proyecto:**PROYECTO IQUAL (Sistema de Gestión Escolar-SGE)  
+**Materia:**Proyecto Informático I - 4° Año Computación  
+**Establecimiento:**Escuela Técnica N°3 D.E.9 Reg 8ª "María Sánchez de Thompson"  
+**Equipo:**Arce Thiago,Cabrera Ulises,Denuble Franco,MANUEL GONZALEZ  
 
 ---
 
@@ -10,7 +10,7 @@
 * **Actividades:**
   * Lluvia de ideas inicial sobre problemáticas escolares.Se propuso en primera instancia la problemática del buffet escolar,sin embargo,al existir una coincidencia con otro equipo de trabajo,la elección de la temática se definió mediante piedra papel o tijera.
   * Tras el resultado,el equipo pivotó rápidamente hacia una nueva temática integral:la **desorganización operativa en las áreas generales y recursos comunes del colegio**.
-* **Entregables / Artefactos:** Definición del concepto general del PROYECTO IQUAL.
+* **Entregables/Artefactos:** Definición del concepto general del PROYECTO IQUAL.
 
 ---
 
