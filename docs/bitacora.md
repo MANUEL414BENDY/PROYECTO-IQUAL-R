@@ -1,8 +1,8 @@
 # Bitácora de Trabajo del Equipo
 **Proyecto:** PROYECTO IQUAL® (Sistema de Gestión Escolar-SGE)  
-**Materia: **Proyecto Informático I-4° Año Computación  
-**Establecimiento: **Escuela Técnica N°3 D.E.9 Reg 8ª "María Sánchez de Thompson"  
-**Equipo: **Arce Thiago,Cabrera Ulises,Denuble Franco,MANUEL GONZALEZ  
+**Materia:** Proyecto Informático I-4° Año Computación  
+**Establecimiento:** Escuela Técnica N°3 D.E.9 Reg 8ª "María Sánchez de Thompson"  
+**Equipo:** Arce Thiago,Cabrera Ulises,Denuble Franco,MANUEL GONZALEZ  
 
 ---
 
