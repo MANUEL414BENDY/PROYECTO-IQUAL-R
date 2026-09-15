@@ -1,4 +1,4 @@
-# PROYECTO IQUAL
+# PROYECTO IQUAL®
 ## SGE:Sistema de Gestión Escolar Integrado
 *Proyecto Informático I-4° Año Computación*  
 **Especialidad:** Computación  
