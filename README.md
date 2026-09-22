@@ -33,9 +33,12 @@ Este sistema integrado surge para dar solución a la desorganización operativa 
 ## 4. Documentación de la Carpeta de Proyecto V1 (`/docs`)
 Toda la documentación técnica del proyecto se encuentra organizada dentro de la carpeta [`/docs`](./docs):
 
-* 🎨 **[Maquetado de Pantallas en Canva](https://canva.link/xudnfbc57bws1eo):** Prototipo visual e interactivo del diseño de las pantallas de la app.
+
+* 📀 **[Defensa Oral](https://canva.link/ecw1bmcqn1ekxgu):** Diapositivas visuales para la defensa oral del tema.
 * 📊 **[Matriz de Marco Lógico (MML)](./docs/marco-logico.xlsx):** Planificación sintética de jerarquía de objetivos, indicadores, medios de verificación y supuestos.
-* 📐 **[Maquetado Funcional y Usabilidad](./docs/maquetado-y-usabilidad.xlsx):** Especificación de pantallas y aplicación de las 10 Heurísticas de Jakob Nielsen.
+* 🛠️ **Maquetado funcional y Usabilidad:**
+  * 📐 **[Maquetado Funcional y Usabilidad](./docs/maquetado-y-usabilidad.xlsx):** Especificación de pantallas y aplicación de las 10 Heurísticas de Jakob Nielsen.
+  * 🎨 **[Maquetado de Pantallas en Canva](https://canva.link/o7k6tqoyn125gn7):** Prototipo visual e interactivo del diseño de las pantallas de la app.
 * 📋 **[Especificación de Requerimientos](./docs/requerimientos.md):** Requerimientos Funcionales (RF01-RF12) y No Funcionales (RNF01-RNF04).
 * 🟡 **[Historias de Usuario (Backlog)](./docs/historias-de-usuario.md):** US01 a US06 con sus respectivos Criterios de Aceptación (3 C de Agile).
 * 🗓️ **[Bitácora de Trabajo](./docs/bitacora.md):** Registro de avances y decisiones semanales del equipo (Semanas 1 a 7).
